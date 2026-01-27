@@ -9,7 +9,6 @@
 # Hi, welcome 👋  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=24&duration=6000&pause=2000&color=00A6F7&center=true&multiline=true&width=900&lines=Senior+Full-Stack+Developer+|+React+%26+React+Native)](https://git.io/typing-svg)
 
-**Senior Full-Stack Developer | React & React Native**  
 I design and build reliable web and mobile applications with a strong focus on scalability, performance, and long-term maintainability.
 
 I work across the full stack, helping teams turn ideas into production-ready products using modern JavaScript and TypeScript ecosystems.
