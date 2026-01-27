@@ -1,4 +1,14 @@
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+</p>
+
 # Hi, welcome 👋  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=24&duration=6000&pause=2000&color=00A6F7&center=true&multiline=true&width=900&lines=Senior+Full-Stack+Developer+|+React+%26+React+Native)](https://git.io/typing-svg)
+
 **Senior Full-Stack Developer | React & React Native**  
 I design and build reliable web and mobile applications with a strong focus on scalability, performance, and long-term maintainability.
 
