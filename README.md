@@ -94,7 +94,7 @@ I work across the full stack, helping teams turn ideas into production-ready pro
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub States
 <div align="center">
   <table>
     <tr>
@@ -107,7 +107,7 @@ I work across the full stack, helping teams turn ideas into production-ready pro
 
   <!-- Activity Graph (streaks intentionally omitted) -->
   <img alt="Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=tribusnojpavel-rgb&theme=react-dark&hide_border=true&area=true" />
+       src="https://github-readme-activity-graph.vercel.app/graph?username=dark-hole&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
