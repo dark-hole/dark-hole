@@ -86,6 +86,32 @@ I work across the full stack, helping teams turn ideas into production-ready pro
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
 </p>
 
+## 🏆 Trophies
+<div align="center">
+  <img alt="GitHub Trophies"
+       src="https://github-profile-trophy-fork-two.vercel.app/?username=sunnypatell&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="160" alt="Top Languages"
+          src="https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=tribusnojpavel-rgb&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Activity Graph (streaks intentionally omitted) -->
+  <img alt="Activity Graph"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=tribusnojpavel-rgb&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
 ## Key Skills Summary
 
 ✔ Frontend: React, React Native (Expo & CLI), JavaScript, TypeScript, TailwindCSS  
