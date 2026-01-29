@@ -94,7 +94,7 @@ I work across the full stack, helping teams turn ideas into production-ready pro
 
 ---
 
-## 📊 GitHub States
+## 📊 GitHub Statistics
 <div align="center">
   <table>
     <tr>
@@ -106,11 +106,11 @@ I work across the full stack, helping teams turn ideas into production-ready pro
   </table>
 
   <!-- Activity Graph (streaks intentionally omitted) -->
-  <img alt="Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=dark-hole&theme=react-dark&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dark-hole&theme=react-dark&bg_color=0d1117&hide_border=true&point=f92672&line=f92672&color=c9d1d9" alt="Activity Graph"/>
 </div>
 
 ---
+
 
 ## Key Skills Summary
 
